@@ -1,1 +1,1 @@
-# style.css
+style.css */ body { font-family: Arial, sans-serif; margin: 0; background:#f5f5f5; } .header { background:#111; color:#fff; padding:15px; display:flex; justify-content:space-between; } .header a { color:#fff; margin:0 10px; text-decoration:none; } .hero { text-align:center; padding:60px; background:#fff; } .hero button { padding:10px 20px; font-size:16px; } .features { display:flex; justify-content:center; gap:20px; padding:40px; } .card { background:#fff; padding:20px; border-radius:8px; } .footer { text-align:center; padding:20px; background:#111; color:#fff; }
